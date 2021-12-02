@@ -1,0 +1,19 @@
+{
+    "name": "vrmlstudio/crypttoencrypt",
+    "description": "A Crypttoencrypt Laravel package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "VRer",
+            "email": "houyue0074@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vrmlstudio\\Crypttoencrypt": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
