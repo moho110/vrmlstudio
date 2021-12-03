@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "vrmlstudio\\crypttoencrypt\\": ["/","tests"],
+            "vrmlstudio\\crypttoencrypt\\": "/"
         }
     },
     "minimum-stability": "dev",
