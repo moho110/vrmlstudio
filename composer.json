@@ -1,7 +1,7 @@
 {
     "name": "vrmlstudio/crypttoencrypt",
     "description": "A Crypttoencrypt Laravel package",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
